@@ -1,0 +1,44 @@
+// OOPs Concept
+#include<iostream>
+using namespace std;
+
+int main(){
+    /*0.OBJECT ORIENTED PROGRAMMING LANGUAGE in C++
+	-> It is a approach of solving 
+	-> Program will be bug free
+	-> It is easy to solve
+C++ language was designed with the main intention of adding object-oriented features to C laguage.
+As the size of the program increases, readability, maintainability and bug-free nature of programs decreases.
+This was the major problem with languages like C which relied upon functions or produres (hence the name procedural programming language).
+As a result, the possibility of not addressing the problem in an effective manner was high.
+Also, as data was almost neglected, data security was easily compromised.
+Using classes solves this problem by modelling program as a real world scenario.
+
+C- is a procedural language & C++ is a oop's language.
+We make class using template
+When we make class it is basically we make a data type
+
+ Animal-{i.type, ii.name, iii. bark}
+dog tommy= animal;
+tommy.name, tommy.type, tommy.bark;
+
+* Consist of writitng a set of instructions for the computer to follow
+* Main focus is on functions and not on flow of data
+* Functions can either use local or global data
+* Data moves openly from function tot function
+
+classes-Basic template for creating objects.
+Objects - Basic run time entities.
+Data Abstraction & Encapsulation - Wrapping data and functions into single unit.
+Inheritance - Properties of one class can be inherited into others.
+Polymorphism - ability to take more than one forms.
+Dynamic Binding- code which will execute is not known until the program runs.
+Massage Passing - Objects.message(Information) call format.
+
+Benefits of Object Oriented Programming:
+Better code reusability using objects and Inheritance.
+Principle of data hiding helps build secure systems.
+Multiple objects can co-exist without any inheritance.
+Software complexity can be easily managed.*/
+    return 0;
+}
